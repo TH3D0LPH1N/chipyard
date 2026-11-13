@@ -6437,7 +6437,7 @@ package:
   category: main
   optional: false
 - name: paramiko
-  version: 5.0.0
+  version: 5.1.0
   manager: pip
   platform: linux-aarch64
   dependencies:
@@ -6445,9 +6445,9 @@ package:
     cryptography: '>=3.3'
     invoke: '>=2.0'
     pynacl: '>=1.5'
-  url: https://files.pythonhosted.org/packages/82/5b/eadf6d45de38d30ab603f49393b6cd2cbe7e233af8cf90197e32782b68a9/paramiko-5.0.0-py3-none-any.whl
+  url: https://files.pythonhosted.org/packages/13/45/fa0e8d70cb25d2dae06bc238e580a84834f6ca53a4e2408cccc19a78db7b/paramiko-5.1.0-py3-none-any.whl
   hash:
-    sha256: b7044611c30140d9a75261653210e2002977b71a0497ff3ba0d98d7edbf62f7c
+    sha256: d9fe6d67a9d0bbf3eb85b051d26ab850b678c02d060f32915b944e5ca6d0d9e1
   category: main
   optional: false
 - name: pylddwrap
